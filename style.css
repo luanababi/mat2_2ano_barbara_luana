@@ -5,3 +5,11 @@ header{
 .cabecalho-imagem{
    width: 20%;
 }
+.cabecalho{
+   background-color: #fc6262;
+   color: black;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding: 24px 0;
+}
